@@ -1,0 +1,10 @@
+{
+  "name": "halftone-web-component",
+  "version": "1.0.0",
+  "devDependencies": {
+    "@web/dev-server": "0.0.25"
+  },
+  "scripts": {
+    "serve": "./node_modules/.bin/web-dev-server --node-resolve --open=./demo/demo.html --watch"
+  }
+}
